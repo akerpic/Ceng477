@@ -1,4 +1,4 @@
-In order to run, first, unzip the glm then use make file. 
+In order to run, first, unzip the glm then use Makefile. 
 $ unzip glm.zip -d .
 $ make all
 $ ./hw3 turkey.jpg
